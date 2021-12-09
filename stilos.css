@@ -1,0 +1,43 @@
+/* No CSS *//*# sourceMappingURL=stilos.css.map */
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  .main{
+      background-color: black;
+  }
+  
+  h1{
+      color: cadetblue;
+      text-align: center;
+      text-shadow: brown;
+      width: 3em ;
+      height: 100px;
+      margin-bottom: 200px;
+      left:40%;
+      position:relative;
+      font-family: 'Tangerine', cursive;
+}
+
+.carousel-inner{
+    width: 400;
+    height: 200;
+}
+.bpostre{
+    background-color: black;
+}
+.tCarrito{
+    color: cadetblue;
+    background-color: black;
+
+}
+.imgCards{
+    width: 100%;
+    height:20rem;
+
+}
+.cantidad{
+    width: 5rem;
+}

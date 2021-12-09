@@ -1,0 +1,44 @@
+[
+    {
+    "id":1,
+    "nombre":"tirramisu",
+    "precio":200,
+    "img":"tirramisu.jpg",
+    "descripcion":"Uno de los postres más populares en Italia es el TiramisúEstá hecho con capas de galletas savoiardi o de crema mascarpone. Es original de la región del Veneto."
+    },
+    {
+    "id":2,
+    "nombre":"PannaCotta",
+    "precio":200,
+    "img":"pannacota.jpg",
+    "descripcion":"La panna cotta es una deliciosa que sin duda debes probar. La base de este postre es la nata, de hecho la palabra panna cotta significa literalmente “nata cocida."
+    },
+    {
+    "id":3, 
+    "nombre":"Cannoli",
+    "precio":300,"img":"cannoli.jpg",
+    "descripcion":" Se trata de una masa crujiente enrollada rellena de ricotta pastelera y también trozos de fruta en los extremos. Para su elaboración también puedes utilizar nuestra nata Ken"
+    },
+    {
+        "id":4,
+        "nombre":"Zuccoto",
+        "precio":400,
+        "img":"zuccoto.jpg",
+        "descripcion":"Otro irresistible postre italiano es el zuccotto elaborado usando bizcocho o soletillas mojadas en ron u otro licor de alta graduación. Además se añade una capa gruesa de nata montada, aromatizada a veces con vainilla o chocolate, fruta confitada, frutos secos o nueces, y se cubre con otra capa de bizcocho según la receta tradicional."
+    },
+    {
+    "id":5,
+    "nombre":"sfogliatelle", 
+    "precio":500,
+    "img":"sfogliatelle.jpg",
+    "descripcion":" Es una de las muestras más características de la alta pastelería napolitana. Un postre italiano elaborado en base a un hojaldre trabajado a mano y rellenado con ricotta, fruta confitada, crema pastelera y sémola."
+    },
+  
+    {
+    "id":6,
+    "nombre":"Profiteroles",
+    "precio":500,
+    "img":"profiteroles.jpg",
+    "descripcion":"Aunque franceses e italianos se “disputan” el origen de los profiteroles qué duda cabe que es otro de los postres italianos más demandados por los comensales. Por un lado se debe crear la masa y por otra la crema, aquí también podemos usar leche y nata."
+    }
+]
